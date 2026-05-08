@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 VERIFY_TOKEN = "BotSunny"
-MAKE_WEBHOOK_URL = "https://hook.eu1.make.com/j9b62klim7al7n4kxlxzcqnqszezeaw2"
+MAKE_WEBHOOK_URL = "https://hook.eu1.make.com/xk4hyqji4dnsc5erro59f9jcry36klc2"
 
 
 @app.route('/webhook', methods=['GET'])
